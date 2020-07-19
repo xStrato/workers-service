@@ -1,2 +1,2 @@
 # workers-service
-Just a concept for a future API
+Just a concept study for a future API
